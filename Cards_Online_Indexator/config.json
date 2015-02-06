@@ -1,0 +1,8 @@
+{
+    "Cards": [{
+        
+        "Animated": "http://wow.zamimg.com/images/hearthstone/cards/enus/animated/", // ID_premium.gif
+        "Normal"  : "http://wow.zamimg.com/images/hearthstone/cards/enus/original/", // ID.png
+        
+    }]
+}
